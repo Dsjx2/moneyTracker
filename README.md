@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # money_tracking
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# moneyTracker
+This futter app is to track your incomes and expenses.
+>>>>>>> e742c6a2249e2c4ee195bf416275612e6fa196a9
